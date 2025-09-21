@@ -1,5 +1,5 @@
 body {
-  color: azure;
+  color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,7 +40,7 @@ h2 {
   background-color: rgba(240, 248, 97, 0.432);
   border-radius: 5px;
   font-size: large;
-  color: white;
+  color:black;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -54,3 +54,4 @@ span {
 p {
   font-size: medium;
 }
+
